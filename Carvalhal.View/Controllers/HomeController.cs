@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Carvalhal.View.Models;
+using Carvalhal.View.Models.ViewModels;
 
 namespace Carvalhal.View.Controllers
 {
