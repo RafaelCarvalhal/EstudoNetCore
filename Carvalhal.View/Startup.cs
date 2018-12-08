@@ -46,6 +46,7 @@ namespace Carvalhal.View
             services.AddScoped<SeedingService>();
             services.AddScoped<SellerService>();
             services.AddScoped<DepartmentService>();
+            services.AddScoped<SalesrsRecordService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
